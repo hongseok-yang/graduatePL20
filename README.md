@@ -12,7 +12,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Evaluation
 
-* Final exam (40%). Homework (30%). Two critical reviews (30%).
+* Final exam (40%). Homework (30%). Two critical surveys (30%).
 
 #### Teaching Staffs
 
@@ -25,8 +25,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 * Place: ZOOM. If the situation of COVID-19 improves substantially, we will use the room 1101 in the E3 building.
 * Time: 9:00am - 10:30am on Monday and Wednesday from 31 August 2020 until 16 December 2020.
-* Final exam: 12-hour take-home exam on 12 December 2020. If the situation of COVID-19 substantially, the exam will take place 
-at the room 1101 in the E3 building from 9:00am - 11:00am on 14 December 2019 (Monday).
+* Final exam: 12-hour take-home exam on 12 December 2020 (Saturday). 
 
 #### Online Discussion
 
@@ -59,11 +58,11 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/04 - Recursively-Defined Domains (Tennent Ch10).
 * 11/09 - The Lambda Calculus (Ch10). 
 * 11/11 - The Lambda Calculus (Ch10). 
-* 11/16 - The Lambda Calculus (Ch10). 
-* 11/18 - An Eager Functional Language (Ch11). 
-* 11/23 - An Eager Functional Language (Ch11).
+* 11/16 - An Eager Functional Language (Ch11). 
+* 11/18 - An Eager Functional Language (Ch11).
+* 11/23 - Continuation in a Functional Language (Ch12). 
 * 11/25 - Continuation in a Functional Language (Ch12). 
-* 11/30 - Continuation in a Functional Language (Ch12). 
+* 11/30 - A Normal-Order Language (Ch14).
 * 12/02 - The Simple Type System (Ch15).
 * 12/07 - The Simple Type System (Ch15).
 * __**12/09 - NO LECTURE. KAIST Undergraduate Admission.**__
