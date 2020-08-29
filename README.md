@@ -117,4 +117,12 @@ One important part of this course is to study assigned topics for yourself, and 
       2. Philip Wadler. [Theorems for free!](https://dl.acm.org/doi/pdf/10.1145/99370.99404).
       3. Chapter 17 of the textbook by Reynolds.  
       4. John Reynolds. [An Introduction to Polymorphic Lambda Calculus.](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F12E218CB6AA7DA6A31C9DDDB12DEE2E?doi=10.1.1.7.9916&rep=rep1&type=pdf)
-
+      5. The above papers are classic papers on this topic. I suggest you to have a look at more recent papers on this topic as well, published in PL conferences and journals such as POPL, LICS, MFPS, TOPLAS.
+   4. Questions to think about:
+      1. What is polymorphism? 
+      2. How parametric polymorphism and ad-hoc polymorphism differ and get realised in programming languages? 
+      3. How relational parametricity formalises parametric polymorphism?
+      4. What are the consequences of relational parametricity for properties of programs? 
+      5. How does relational parametricity relate to other programming language concepts such as data abstraction?
+      6. Can you find a new way of using the key idea behind relational parametricity?
+      7. What do researchers work on relational parametricity nowadays?
