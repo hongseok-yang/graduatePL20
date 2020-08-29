@@ -86,3 +86,35 @@ The following classic papers or their recent reprints contain deep insight into 
 
 * John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](https://dl.acm.org/citation.cfm?id=582176), POPL 1982.
+
+## 5. Two Critical Surveys
+
+One important part of this course is to study assigned topics for yourself, and write surveys about them, which also contain critiques or original thoughts of the student. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topics well, carried out in-depth studies on the topics, and thought hard and originally about them. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignments.
+
+1. Don't postpone this assignments until the last moment.
+2. There are two assignments. In both cases, a submission should be at most 3 pages not including bibliography.
+3. First assignment:
+   1. Topic: Concurrent separation logic.
+   2. Deadline: __**23:59 of the 30th of October in 2020 (Friday). Summit in KLMS.**__
+   3. Some references that may help you to start: 
+      1. Peter O'Hearn. [Resources, Concurrency, and Local Reasoning.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/concurrency.pdf) This is the paper that started concurrent separation logic.
+      2. Stephen Brookes and Peter O'Hearn. [Concurrent Separation Logic.](https://dl.acm.org/doi/pdf/10.1145/2984450.2984457)
+      3. Peter O'Hearn. [Separation Logic.](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/pdf)
+      4. Peter O'Hearn, John Reynolds, and Hongseok Yang. [Local Reasoning about Programs that Alter Data Structures.](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/localreasoning.pdf) This paper describes one of the key ideas behind separation logic, called local reasoning.
+      5. Stephen Brookes. [A Semantics for Concurrent Separation Logic.](https://www.cs.cmu.edu/~brookes/papers/seplogicrevisedfinal.pdf)
+   4. Questions to think about:
+      1. What is separation logic? What is concurrent separation logic?
+      2. Which aspects of concurrent separation logic help construct the proofs of concurrent programs more easily?
+      3. What recent research results result from concurrent separation logic?
+      4. Can you find a new application where concurrent separation logic or its key ideas can be applied?
+      5. How would you improve concurrent separation logic?
+      6. If you want to show the termination (more generally liveness properties), how should you extend concurrent separation logic?
+4. Second assignment.
+   1. Topic: Relational parametricity.
+   2. Deadline: __**23:59 of the 7th of December in 2020 (Monday). Summit in KLMS.**__
+   3. Some references that may help you to start:
+      1. John Reynolds. [Types, Abstraction and Parametric Polymorphism.](http://www.cs.cmu.edu/afs/cs/user/jcr/ftp/typesabpara.pdf).
+      2. Philip Wadler. [Theorems for free!](https://dl.acm.org/doi/pdf/10.1145/99370.99404).
+      3. Chapter 17 of the textbook by Reynolds.  
+      4. John Reynolds. [An Introduction to Polymorphic Lambda Calculus.](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F12E218CB6AA7DA6A31C9DDDB12DEE2E?doi=10.1.1.7.9916&rep=rep1&type=pdf)
+
