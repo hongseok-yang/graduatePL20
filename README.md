@@ -37,7 +37,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 4. Tentative Plan
 
-* 08/31 - Introduction and Predicate Logic (Ch1).
+* 08/31 - Introduction and Predicate Logic (Ch1). [Intoduction slides.](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 09/02 - Predicate Logic (Ch1).
 * 09/07 - Predicate Logic (Ch1).
 * 09/09 - The Simple Imperative Language (Ch2).
