@@ -26,7 +26,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
       - ID: 470 585 0446
       - PW: 567976  
    * Dongwoo Oh
-      - office hour : 4:00pm - 5:00pm Friday in ZOOM
+      - office hour : 4:00pm - 5:00pm Tuesday in ZOOM
       - https://us04web.zoom.us/j/6081604062?pwd=VFhMeXh1SkRUWHE3NFVpZmx4U0Qvdz09
       - ID: 608 160 4062
       - PW: qJ2SY7
