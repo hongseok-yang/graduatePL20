@@ -16,7 +16,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Teaching Staffs
 
-* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm in ZOOM. You can find more information about it in KLMS.)
+* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm Monday in ZOOM. You can find more information about it in KLMS.)
 * TA: Hyoungjin Lim (email: lmkmkr@kaist.ac.kr)
 * TA: Dongwoo Oh (email: dongwoo@kaist.ac.kr)
 * Office hours by TAs:  
