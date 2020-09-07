@@ -74,8 +74,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/25 - Continuation in a Functional Language (Ch12). 
 * 11/30 - A Normal-Order Language (Ch14).
 * 12/02 - The Simple Type System (Ch15).
-* 12/07 - The Simple Type System (Ch15).
-* __**12/09 - NO LECTURE. KAIST Undergraduate Admission.**__
+* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__
 * __**12/14, 12/16 - NO LECTURES. Final Exam.**__
 
 
