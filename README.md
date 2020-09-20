@@ -8,6 +8,18 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [September 20] Policy for handling late submissions.
+
+We will adopt the following scheme for handling late submissions for homework assignments and critical surveys. The scheme assumes that the total marks are 100.
+
+1. <= One day late (by the midnight of the next day): -10
+2. <= Two days late: -20
+3. <= Three days late: -30
+4. <= Four days late: -40
+5. More than four days late: -100.
+
+Of course, we won't accept any late submissions for the final exam.
+
 #### [September 20] [Homework1](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 5 October 2020 (Wednesday).
