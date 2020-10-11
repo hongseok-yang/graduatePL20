@@ -8,6 +8,12 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [October 11] [Homework2](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
+
+The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 28 October 2020 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [September 20] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for homework assignments and critical surveys. The scheme assumes that the total marks are 100.
@@ -22,7 +28,7 @@ Of course, we won't accept any late submissions for the final exam.
 
 #### [September 20] [Homework1](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
 
-The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 5 October 2020 (Wednesday).
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 5 October 2020 (Monday).
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
@@ -64,6 +70,7 @@ We remind the students that we adopt a very strict policy for handling dishonest
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
 * [Homework1](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 5 October 2020 (Monday).
+* [Homework2](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework2/homework2-questions.pdf) - Deadline: 6:00pm on 28 October 2020 (Wednesday).
 
 ## 4. Tentative Plan
 
