@@ -87,11 +87,11 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/05 - Failure, Input-Output, and Continuation (Ch5). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/note7.jpg), [whiteboard1(Oct5)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct5Board1.png))
 * 10/07 - Failure, Input-Output, and Continuation (Ch5). ([whiteboard1(Oct7)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board1.png), [whiteboard2(Oct7)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board2.png), [whiteboard3(Oct7)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board3.png))
 * 10/12 - Failure, Input-Output, and Continuation (Ch5). ([whiteboard1(Oct12)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board1.png), [whiteboard2(Oct12)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board2.png), [whiteboard3(Oct12)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board3.png))
-* 10/14 - Transition Semantics (Ch6). 
+* 10/14 - Failure, Input-Output, and Continuation (Ch5). ([whiteboard1(Oct14)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board1.png), [whiteboard2(Oct14)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board2.png), [whiteboard3(Oct14)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board3.png))
 * __**10/19, 10/21 - NO LECTURES. Midterm Exam.**__
-* 10/26 - An Introduction to Category Theory (Tennent Ch8). 
+* 10/26 - Transition Semantics (Ch6). 
 * 10/28 - An Introduction to Category Theory (Tennent Ch8). 
-* 11/02 - Recursively-Defined Domains (Tennent Ch10). 
+* 11/02 - An Introduction to Category Theory (Tennent Ch8). 
 * 11/04 - Recursively-Defined Domains (Tennent Ch10).
 * 11/09 - The Lambda Calculus (Ch10). 
 * 11/11 - The Lambda Calculus (Ch10). 
