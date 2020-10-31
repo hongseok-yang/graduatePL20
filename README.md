@@ -92,16 +92,16 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/26 - Transition Semantics (Ch6). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/note5.jpeg), [whiteboard1(Oct26)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board1.png), [whiteboard2(Oct26)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board2.png), [whiteboard3(Oct26)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board3.png))
 * 10/28 - An Introduction to Category Theory (Tennent Ch8). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/note5.jpeg), [whiteboard1(Oct28)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board1.png), [whiteboard2(Oct28)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board2.png), [whiteboard3(Oct28)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board3.png))
 * 11/02 - An Introduction to Category Theory (Tennent Ch8). 
-* 11/04 - Recursively-Defined Domains (Tennent Ch10).
-* 11/09 - The Lambda Calculus (Ch10). 
+* 11/04 - Recursively-Defined Domains (Tennent Ch10). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/note9.jpeg))
+* 11/09 - Recursively-Defined Domains (Tennent Ch10). 
 * 11/11 - The Lambda Calculus (Ch10). 
-* 11/16 - An Eager Functional Language (Ch11). 
+* 11/16 - The Lambda Calculus (Ch10). 
 * 11/18 - An Eager Functional Language (Ch11).
-* 11/23 - Continuation in a Functional Language (Ch12). 
+* 11/23 - An Eager Functional Language (Ch11). 
 * 11/25 - Continuation in a Functional Language (Ch12). 
-* 11/30 - A Normal-Order Language (Ch14).
-* 12/02 - The Simple Type System (Ch15).
-* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__
+* 11/30 - Continuation in a Functional Language (Ch12). 
+* 12/02 - A Normal-Order Language (Ch14).
+* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__ Or The Simple Type System (Ch15).
 * __**12/14, 12/16 - NO LECTURES. Final Exam.**__
 
 
