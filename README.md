@@ -8,6 +8,12 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [November 15] [Homework3](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
+
+The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 25 November 2020 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [October 11] [Homework2](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 28 October 2020 (Wednesday).
@@ -71,6 +77,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 * [Homework1](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 5 October 2020 (Monday).
 * [Homework2](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework2/homework2-questions.pdf) - Deadline: 6:00pm on 28 October 2020 (Wednesday).
+* [Homework3](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework3/homework3-questions.pdf) - Deadline: 6:00pm on 25 November 2020 (Wednesday).
 
 ## 4. Tentative Plan
 
