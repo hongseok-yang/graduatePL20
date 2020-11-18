@@ -103,12 +103,12 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/09 - Recursively-Defined Domains (Tennent Ch10). ([whiteboard1(Nov9)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board1.png), [whiteboard2(Nov9)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board2.png), [whiteboard3(Nov9)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture8/Nov9Board3.png))
 * 11/11 - The Lambda Calculus (Ch10). ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/note8.jpeg), [whiteboard1(Nov11)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov11Board1.png), [whiteboard2(Nov11)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov11Board2.png))
 * 11/16 - The Lambda Calculus (Ch10). ([whiteboard1(Nov16)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov16Board1.png), [whiteboard2(Nov16)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov16Board2.png), [whiteboard3(Nov16)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov16Board3.png))
-* 11/18 - The Lambda Calculus (Ch10). 
+* 11/18 - The Lambda Calculus (Ch10). ([whiteboard1(Nov18)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov18Board1.png), [whiteboard2(Nov18)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture9/Nov18Board2.png))
 * 11/23 - An Eager Functional Language (Ch11). 
 * 11/25 - An Eager Functional Language (Ch11).
 * 11/30 - Continuation in a Functional Language (Ch12). 
-* 12/02 - A Normal-Order Language (Ch14).
-* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__ Or The Simple Type System (Ch15).
+* 12/02 - Continuation in a Functional Language (Ch12). 
+* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__ 
 * __**12/14, 12/16 - NO LECTURES. Final Exam.**__
 
 
