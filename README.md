@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [November 22] Q&A Session on 7/9 December.
+
+In our usual online lecture times, we will have Q&A sessions instead of me explaining new materials. If you want some questions to be discussed, leave comments about those questions in my KLMS postiong about these Q&A sessions.
+
 #### [November 22] [Homework4](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
 The homework assignment 4 is out. This is the last homework assignment. Submit your solutions in KLMS by 6:00pm on 7 December 2020 (Monday).
@@ -115,7 +119,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/25 - An Eager Functional Language (Ch11).
 * 11/30 - Continuation in a Functional Language (Ch12). 
 * 12/02 - Continuation in a Functional Language (Ch12). 
-* __**12/07, 12/09 - Possibly NO LECTURES. KAIST Undergraduate Admission.**__ 
+* __**12/07, 12/09 - Q&A Sessions. KAIST Undergraduate Admission.**__ 
 * __**12/14, 12/16 - NO LECTURES. Final Exam.**__
 
 
