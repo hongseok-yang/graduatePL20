@@ -8,9 +8,9 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
-#### [November 22] Q&A Session on 7/9 December.
+#### [November 22] Q&A Sessions on 7 and 9 December.
 
-In our usual online lecture times, we will have Q&A sessions instead of me explaining new materials. If you want some questions to be discussed, leave comments about those questions in my KLMS postiong about these Q&A sessions.
+On the 7th and 9th of December, we will have Q&A sessions in our online classes instead of me explaining new materials. If you want some questions to be discussed, leave comments about those questions in my KLMS annoucement about these Q&A sessions.
 
 #### [November 22] [Homework4](https://github.com/hongseok-yang/graduatePL20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
