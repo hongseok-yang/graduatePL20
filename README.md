@@ -8,6 +8,12 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [December 4] No Q&A Session on 9 December.
+
+Based on what I was told, it is very likely that the interviews for the KAIST undergraduate admission will happen offline on Wed and Thu next week. I am aware that some graduate students participate in online classes in their offices, but this face-to-face interview means that all of their offices will be closed. Furthermore, I think that during this undergraduate interview period, it is better to stay away from the university, not only because of the interview but also because of COVID-19. So, we decide to cancel our Q&A session on Wednesday next week; there will not be an online class on Wednesday.
+
+On Monday, we will have a Q&A session as planned, based on the questions that students posted at KLMS Q&A.
+
 #### [November 22] Q&A Sessions on 7 and 9 December.
 
 On the 7th and 9th of December, we will have Q&A sessions in our online classes instead of me explaining new materials. If you want some questions to be discussed, leave comments about those questions in my KLMS annoucement about these Q&A sessions.
@@ -120,7 +126,8 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 11/30 - Continuation in a Functional Language (Ch12). 
 ([note1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note9.jpeg), [note10](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note10.jpeg), [note11](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note11.jpeg), [note12](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/note12.jpeg), [whiteboard1(Nov30)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Nov30Board1.png), [whiteboard2(Nov30)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Nov30Board2.png))
 * 12/02 - Continuation in a Functional Language (Ch12). ([whiteboard1(Dec2)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board1.png), [whiteboard2(Dec2)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board2.png), [whiteboard3(Dec2)](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board3.png))
-* __**12/07, 12/09 - Q&A Sessions. KAIST Undergraduate Admission.**__ 
+* __**12/07 - Q&A Session.**__ 
+* __**12/09 - NO LECTURE. KAIST Undergraduate Admission.**__ 
 * __**12/14, 12/16 - NO LECTURES. Final Exam.**__
 
 
